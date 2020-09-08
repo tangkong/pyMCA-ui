@@ -1,0 +1,7 @@
+ 1009  conda activate pydm-env
+ 1010  conda info --envs
+ 1076  conda list
+ 1011  pydm
+
+ 1181  pydm --hide-menu-bar --hide-nav-bar -m "DEVICE=XSPRESS3-EXAMPLE" SSRL_MCA.py
+
